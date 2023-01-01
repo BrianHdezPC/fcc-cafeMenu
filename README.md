@@ -1,2 +1,2 @@
 # fcc-cafeMenu
-Responsive Web Design course, exercise 2
+freeCodeCamp's Responsive Web Design course, exercise 2
